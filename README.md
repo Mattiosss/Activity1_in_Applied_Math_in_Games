@@ -1,2 +1,2 @@
-# Activity1_in_Applied_Math_in_Games
-Activity 1 in Applied Math in Games
+# CABUSAY_ACTIVITY-1_APPLIED_MATH_IN_GAMES
+First Activity in Applied Math in Games
